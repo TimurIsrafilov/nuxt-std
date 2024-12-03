@@ -1,75 +1,14 @@
-# Nuxt Minimal Starter
+# ToDo application on Nuxt (Vue3)
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+## Project description:
 
-## Setup
+Web-app, todo list with options to add, edit and delete tasks.
 
-Make sure to install dependencies:
+## The project is deployed on the Vercel resource by the link:
 
-```bash
-# npm
-npm install
+[https://nuxt-std.vercel.app/tasks](https://nuxt-std.vercel.app/tasks)
 
-# pnpm
-pnpm install
+## Stack used technologies:
 
-# yarn
-yarn install
-
-# bun
-bun install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+- <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" title="nuxtjs" alt="nuxtjs" width="20" height="20"/> - **NuxtJS** - framework for Vue [https://nextjs.org/](https://nextjs.org/)
+- <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="vuejs" alt="vuejs" width="20" height="20"/> - **Vue3** - JavaScript library [https://react.dev/](https://react.dev/)
